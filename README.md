@@ -83,27 +83,20 @@ These programs have helped me build practical knowledge across software testing,
 
 ---
 
-# 🚀 Projects
+## 🌟 Featured Projects
 
-## 1. GST Tracker
+### GST Tracker
 
-A web application developed using AI-assisted development and deployed as a live application.
+A web application built using AI-assisted development with Claude Code, managed with Git and GitHub, tested and deployed using Vercel.
 
-### Highlights
-
-* Built using AI-assisted development with Claude Code
-* Source code managed using Git and GitHub
-* Application testing and validation
-* Deployed to Vercel
-* Live web application
-
-🔗 **[View Live Demo](https://gst-tracker-murex.vercel.app)**
-
-🔗 **[View Source Code](https://github.com/KanimozhiR17/GST-tracker)**
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20App-2ea44f?style=for-the-badge)](https://gst-tracker-murex.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/KanimozhiR17/GST-tracker)
 
 ---
 
-## 2. AI Automation Solutions
+# 📂 More Projects
+
+## 1. AI Automation Solutions
 
 ### Coming Soon 🚧
 
@@ -120,7 +113,7 @@ Planned areas include:
 
 ---
 
-## 3. AI Testing Projects
+## 2. AI Testing Projects
 
 ### Coming Soon 🚧
 
